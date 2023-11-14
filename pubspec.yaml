@@ -1,0 +1,15 @@
+name: swagger_json_filter
+description: Is a dart utility library inspired by javascript swagger_json_filter library.
+version: 1.0.0
+homepage: https://github.com/noncheat/swagger_json_filter
+repository: https://github.com/noncheat/swagger_json_filter
+
+environment:
+  sdk: '>=2.12.0 <4.0.0'
+
+dependencies:
+  flat: ^0.5.0
+  gato: ^0.0.5
+
+dev_dependencies:
+  test: ^1.21.0
